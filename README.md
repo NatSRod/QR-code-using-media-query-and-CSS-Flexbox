@@ -26,3 +26,4 @@ I was kinda new at using media queries and i was struggling because I was not se
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/NatSRod)
 
 "# QR-code-using-media-query-and-CSS-Flexbox" 
+"# QR-code-using-media-query-and-CSS-Flexbox" 
